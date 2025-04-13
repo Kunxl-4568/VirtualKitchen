@@ -1,0 +1,2 @@
+# VirtualKitchen
+ Virtual Kitchen is a web-based application designed to help users. frontend: react (tailwind css), Database mysql, Backend (laravel) 🛠️ Tech Stack plan, organize, and explore recipes right from the comfort of their kitchen. Whether you're a home cook, student, or someone just starting out, Virtual Kitchen simplifies your cooking experience by giving you access to recipes, ingredients, and meal planning features all in one place., Features 🥗 Browse Recipes – Explore a variety of recipes with ingredients, cooking steps, and prep time.
